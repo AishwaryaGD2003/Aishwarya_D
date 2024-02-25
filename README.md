@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aishwarya Danaraddi</h1>
-<h3 align="center">A passionate frontend developer from India and enthusiastic Java learner.</h3>
+<h3>A passionate frontend developer from India and enthusiastic Java learner.</h3>
 <img alt="coding" width="500" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
 - 🌱 I’m currently learning **Advanced Java, Spring Boot**
 
